@@ -1,0 +1,11 @@
+#temp file
+*.iml
+.gradle/*
+.idea/*
+/local.properties
+gradle/*
+
+
+/build
+/captures
+app/build
